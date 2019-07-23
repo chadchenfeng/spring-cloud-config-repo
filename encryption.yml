@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: chenfeng
+    password: '{cipher}e948787a0e3cc56b0825f32548a9fc75d91019857190257013e4536211db6d5f'
